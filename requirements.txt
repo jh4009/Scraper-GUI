@@ -1,0 +1,9 @@
+customtkinter
+requests
+beautifulsoup4
+pillow
+selenium
+webdriver-manager
+CTkToolTip
+PyPDF2
+pyperclip
